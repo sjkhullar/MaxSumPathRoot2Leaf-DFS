@@ -1,7 +1,7 @@
 package org.learn.Client;
 
-import org.learn.PrepareTree.Node;
 import org.learn.Question.MaxSumPathRoot2Leaf;
+import org.learn.Question.Node;
 
 public class App {
 	public static void main(String[] args) {
